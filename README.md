@@ -2,11 +2,11 @@
 
 # [Devpost](https://devpost.com/software/svg-gen) / Demo
 
-![demo](./demo.png)
+![demo](./demo/demo.png)
 
 # Winners at the Cohere RAG Hackathon
 
-![winners](./winners.JPG)
+![winners](./demo/winners.JPG)
 _Pictured Left to right: Ivan Zhang (Cohere CTO), Olivia Markham (UW TRON '27), Ali Shariatmadari (UW SE '25), Paniz Ojaghi (UW SE '26) Jillian Xu (UWCS '27), Faraz Khoubsirat(UW SE '25, Cohere MLE)_
 
 # Inspiration:
